@@ -1,0 +1,15 @@
+{
+  "name": "adoscanner",
+  "version": "1.0.0",
+  "description": "Scans Azure DevOps projects, repos, and files looking for keywords",
+  "directories": {},
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "semantic-release-docker": "^2.2.0",
+    "semantic-release-ado": "^1.2.2"
+  },
+  "author": "Shadow Quests (E-Commerce Platform Team) &lt;shadowquests@alaskaair.com&gt;"
+}
